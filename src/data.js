@@ -38,7 +38,7 @@ const reviews = [
     id: 6,
     name: "Abhishek Chauhan",
     job: "Teacher",
-    image: "https://scontent.fdel8-1.fna.fbcdn.net/v/t1.6435-9/178753064_104719231773244_2489703369911765936_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=iYgCKyJuGJEAX8ROw8r&_nc_ht=scontent.fdel8-1.fna&oh=00_AfAssAaVAIFVOkibn0YqgWMSUdQZnALdY0mdgzmEVt2Wyw&oe=6539F2B4",
+    image: "https://pbs.twimg.com/media/GPiaMkmbwAA-sIg?format=jpg&name=large",
     text: "I am a teacher and I teach class 12th students. I have graduated from Chhatrapati Shahu Ji Maharaj University Kanpur and have done BEd from Agra University. Recently I am doing UP D.El.Ed .",
   },
   {
